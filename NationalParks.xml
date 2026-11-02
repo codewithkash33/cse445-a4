@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<NationalParks>
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Zion</Name>
+    <Phone>435-772-3256</Phone>
+    <Address NearestAirport="St. George Regional Airport">
+      <Number>1</Number>
+      <Street>Zion Park Blvd.</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Arches</Name>
+    <Phone>435-719-2299</Phone>
+    <Address NearestAirport="Canyonlands Regional Airport">
+      <Number>907</Number>
+      <Street>PO Box</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Badlands</Name>
+    <Phone>605-433-5361</Phone>
+    <Address NearestAirport="Rapid City Regional Airport">
+      <Number>25216</Number>
+      <Street>Ben Reifel Road</Street>
+      <City>Interior</City>
+      <State>SD</State>
+      <Zip>57750</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Biscayne</Name>
+    <Phone>786-335-3620</Phone>
+    <Phone>786-335-3630</Phone>
+    <Address NearestAirport="Homestead General Aviation Airport">
+      <Number>9700</Number>
+      <Street>SW 328th Street</Street>
+      <City>Homestead</City>
+      <State>FL</State>
+      <Zip>33033</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Congaree</Name>
+    <Phone>803-776-4396</Phone>
+    <Address NearestAirport="Columbia Metropolitan Airport">
+      <Number>100</Number>
+      <Street>National Park Road</Street>
+      <City>Hopkins</City>
+      <State>SC</State>
+      <Zip>29061</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Cuyahoga Valley</Name>
+    <Phone>440-717-3890</Phone>
+    <Address NearestAirport="Cleveland Hopkins International Airport">
+      <Number>15610</Number>
+      <Street>Vaughn Road</Street>
+      <City>Brecksville</City>
+      <State>OH</State>
+      <Zip>44141</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Everglades</Name>
+    <Phone>305-242-7700</Phone>
+    <Address NearestAirport="Homestead General Aviation Airport">
+      <Number>40001</Number>
+      <Street>State Road 9336</Street>
+      <City>Homestead</City>
+      <State>FL</State>
+      <Zip>33034</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Great Smoky Mountains</Name>
+    <Phone>865-436-1200</Phone>
+    <Address NearestAirport="Gatlinburg-Pigeon Forge Airport">
+      <Number>107</Number>
+      <Street>Park Headquarters Road</Street>
+      <City>Gatlinburg</City>
+      <State>TN</State>
+      <Zip>37738</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Hot Springs</Name>
+    <Phone>501-620-6715</Phone>
+    <Phone>501-620-6720</Phone>
+    <Address NearestAirport="Memorial Field Airport">
+      <Number>101</Number>
+      <Street>Reserve Street</Street>
+      <City>Hot Springs</City>
+      <State>AR</State>
+      <Zip>71901</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Joshua Tree</Name>
+    <Phone>760-367-5500</Phone>
+    <Phone>760-367-5554</Phone>
+    <Address NearestAirport="Twentynine Palms Airport">
+      <Number>74485</Number>
+      <Street>National Park Drive</Street>
+      <City>Twentynine Palms</City>
+      <State>CA</State>
+      <Zip>92277</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
